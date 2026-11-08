@@ -9,6 +9,7 @@ My research asks why some people control a virus without becoming ill, and how t
 - Tissue-resident memory T cells and prime-pull-keep immunotherapy
 - Immunogenetics, histocompatibility and kidney transplantation
 - Single-cell and bulk transcriptomics and immunoinformatics
+- Artificial intelligence and data science: interpretable models of immune states and AI in vaccine design (MIDS, UC Berkeley; MSc in AI, Woolf, 2026)
 - One Health and public health, including CKDu field studies and the Global Burden of Disease Study
 
 **Find my work**
