@@ -15,6 +15,6 @@ My research asks why some people control a virus without becoming ill, and how t
 **Find my work**
 - Academic website: [www.swayamprakash.si](http://www.swayamprakash.si/)
 - Summary profile: [sway1987am.github.io/swayam.github.io](https://sway1987am.github.io/swayam.github.io/)
-- [Google Scholar](https://scholar.google.com/citations?user=gDxl3fYAAAAJ&hl=en) · [NCBI bibliography](https://www.ncbi.nlm.nih.gov/myncbi/a.b.2/bibliography/public/) · [ORCID](https://orcid.org/0000-0003-3986-890X) · [UCI profile](https://scholarconnect.uci.edu/fswayamp)
+- [Google Scholar](https://scholar.google.com/citations?user=gDxl3fYAAAAJ&hl=en) · [NCBI bibliography](https://www.ncbi.nlm.nih.gov/myncbi/a.b.2/bibliography/public/) · [ORCID](https://orcid.org/0000-0003-3986-890X) · [UCI profile](https://scholarconnect.uci.edu/fswayamp) · [LinkedIn](https://www.linkedin.com/in/swayam-prakash-ms-phd-frsb-b522a821a/)
 
 Contact: fswayamp@hs.uci.edu
